@@ -549,7 +549,7 @@ export default function App() {
         {/* Footer */}
         <footer className="footer">
           <p className="footer-logo">Il Caravellino</p>
-          <p className="footer-note">All prices in Euro · Service included</p>
+          <p className="footer-note">All prices in Euro · Tip not included — but karma is always watching.</p>
         </footer>
       </div>
     </>
