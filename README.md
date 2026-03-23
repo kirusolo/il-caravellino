@@ -1,12 +1,5 @@
 # Il Caravellino – Digital Bar Menu
 
-## Deploy to Vercel
-
-1. Push this folder to a GitHub repository
-2. Go to [vercel.com](https://vercel.com) → New Project
-3. Import your GitHub repo
-4. Vercel auto-detects Vite — just click **Deploy**
-5. Your menu will be live at `your-project.vercel.app`
 
 ## Local Development
 
